@@ -1,0 +1,25 @@
+﻿source_organization_id,source_organization_name,service_category,northstar_facility_code,northstar_facility_name,mapping_basis,active
+74ab949d-17ac-3309-83a0-13b4405c66aa,Fitchburg Outpatient Clinic,Community/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Primary/community outpatient care,true
+17a4bae5-8b64-34d7-8144-b428be027bd0,NURSE ON CALL,Community/Home Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Community/home care,true
+ab701a70-a658-340e-8f69-ee196a7d40c6,CAREWELL URGENT CARE CENTERS OF MA PC,Urgent Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Urgent/community care,true
+4cf79e95-2815-3a4c-a3b8-951fe548dd27,BERKSHIRE FAMILY PRACTICE ASSOCIATES PC,Community/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Primary/community outpatient care,true
+18061fd5-fda8-3e2d-87f0-0f3c87211bcc,CAMBRIDGE PUBLIC HEALTH COMMISSION,Community/Public Health,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Community/public health care,true
+d4e48a16-0a60-3e90-81e5-c35b22ffe6af,GREEN MOUNTAIN URGENT CARE LLC,Urgent Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Urgent/community care,true
+0d24cc89-3256-330c-b36d-d8de8babef84,CAPE COD HEALTHCARE PHYSICIANS,Community/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Primary/community outpatient care,true
+db28cc9a-fdfb-35a6-aef7-ab9b933ef244,CAMBRIDGE REHABILITATION & NURSING CENTER,Institutional Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Institutional/clinical care,true
+aba3e6f6-4562-342e-b90f-dd61b117f394,MEDICAL EXPRESS URGENT CARE CENTER CO INC,Urgent Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Urgent/community care,true
+5a6fa8a5-90e2-3f70-bb3e-3d9dd7ad2f96,CHICOPEE REHABILITATION AND NURSING CENTER LLC,Institutional Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Institutional/clinical care,true
+a2d45ee8-b930-3169-b612-f602961ad212,SUNRISE HEALTHCARE LLC,Community/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Primary/community outpatient care,true
+497f39dd-280e-3d58-af5b-c5e3a3a09b10,CAPE COD HOSPITAL INC,Acute/Hospital Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Hospital/acute care,true
+5b0cd0a0-f277-3a66-bee6-d64b5be4a3f5,BERKSHIRE MEDICAL CENTER INC - 1,Acute/Hospital Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Hospital/acute care,true
+ad2dab07-4f85-3950-baaa-7c7cd2aa770c,UNIVERSITY OF MA MED CTR-ESRD,Specialized Clinical Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Specialized/institutional care,true
+0d9b0d22-585e-3fd8-ab02-26b5be7915d1,THE SHRINERS HOSPITAL FOR CHILDREN,Acute/Hospital Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Hospital/acute care,true
+aad05540-c9cb-3805-b3c4-f9b9d9b42b2e,RIVER'S EDGE PRIMARY CARE LLC,Community/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Primary/community outpatient care,true
+1cec4304-9757-3a10-ad4f-7e2090c56131,UMASS MEMORIAL MEDICAL CENTER INC,Acute/Hospital Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Hospital/acute care,true
+a036cdf2-bbc5-3ffd-987f-56e437fd8b74,WINDSOR NURSING & RETIREMENT HOME,Institutional Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Institutional/clinical care,true
+615416de-5217-3c11-9828-2d4bacd1d9cb,VISITING NURSE ASSOCIATION OF CAPE COD INC,Community/Home Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Community/home care,true
+e2a8b444-9b8f-36ff-84c4-05ee98589482,WHITLEY WELLNESS LLC,Community/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Primary/community outpatient care,true
+65dac97b-bb0c-38ae-94bc-bf29ac9687ea,CRANEVILLE PLACE REHABILITATION & SKILLED CARE CT,Institutional Care,NORTHSTAR_GENERAL_HOSPITAL,Northstar General Hospital,Institutional/clinical care,true
+11a40a26-a5a3-331d-aef0-d06dd90e2b4e,CAPE COD PRIMARY CARE LLC,Community/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Primary/community outpatient care,true
+95f6c328-96dd-3fb8-a56e-9aad566094b4,EXCEL HOME CARE SERVICES INC,Community/Home Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Community/home care,true
+0592d4e5-a0fb-3143-83cd-8e5a6b066a96,SOUTH SHORE PRIMARY AND URGENT CARE LLC,Urgent/Primary Care,NORTHSTAR_COMMUNITY_CLINIC,Northstar Community Clinic,Urgent/community care,true

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "bundles": {
+    "An125_Rowe323_b095a0fd-bef0-d1fd-d0aa-30c9908483ee.json": {
+      "status": "skipped_existing",
+      "patient_source_id": "b095a0fd-bef0-d1fd-d0aa-30c9908483ee",
+      "fhir_entry_count": 12349,
+      "matching_hapi_patients": 2,
+      "checked_at": "2026-09-19T07:03:46.395712+00:00"
+    },
+    "Andrés117_Olivo261_5c9f20d5-8361-b331-9267-5303ca5b136a.json": {
+      "status": "success",
+      "patient_source_id": "5c9f20d5-8361-b331-9267-5303ca5b136a",
+      "fhir_entry_count": 2548,
+      "response_entry_count": 2548,
+      "ingested_at": "2026-09-19T07:03:57.273100+00:00"
+    },
+    "Ashely524_Maybelle917_Hermann103_d545798e-09a4-ef89-abc5-9f62dc5a5095.json": {
+      "status": "success",
+      "patient_source_id": "d545798e-09a4-ef89-abc5-9f62dc5a5095",
+      "fhir_entry_count": 1025,
+      "response_entry_count": 1025,
+      "ingested_at": "2026-09-19T07:04:00.421992+00:00"
+    },
+    "Kali995_Erika442_Cummings51_66bd40ae-d139-51d1-1f33-d622bbec8833.json": {
+      "status": "success",
+      "patient_source_id": "66bd40ae-d139-51d1-1f33-d622bbec8833",
+      "fhir_entry_count": 865,
+      "response_entry_count": 865,
+      "ingested_at": "2026-09-19T07:04:02.905903+00:00"
+    },
+    "Kimi714_Katerine813_Watsica258_eed8a921-eac8-0778-4113-255f4e35506a.json": {
+      "status": "skipped_existing",
+      "patient_source_id": "eed8a921-eac8-0778-4113-255f4e35506a",
+      "fhir_entry_count": 853,
+      "matching_hapi_patients": 1,
+      "checked_at": "2026-09-19T07:04:02.993179+00:00"
+    },
+    "Lawanna610_Rikki26_MacGyver246_8e388570-2fca-88ca-2d7a-995219b2a8ad.json": {
+      "status": "success",
+      "patient_source_id": "8e388570-2fca-88ca-2d7a-995219b2a8ad",
+      "fhir_entry_count": 1957,
+      "response_entry_count": 1957,
+      "ingested_at": "2026-09-19T07:04:08.076642+00:00"
+    },
+    "Louie190_Danita413_Mitchell808_3c4b499b-090b-c6fa-28d7-b56c6056d0a2.json": {
+      "status": "success",
+      "patient_source_id": "3c4b499b-090b-c6fa-28d7-b56c6056d0a2",
+      "fhir_entry_count": 1684,
+      "response_entry_count": 1684,
+      "ingested_at": "2026-09-19T07:04:12.041944+00:00"
+    },
+    "Miguel815_Bashirian201_5393ea7f-1fea-4064-9df4-460a2f662d07.json": {
+      "status": "success",
+      "patient_source_id": "5393ea7f-1fea-4064-9df4-460a2f662d07",
+      "fhir_entry_count": 1982,
+      "response_entry_count": 1982,
+      "ingested_at": "2026-09-19T07:04:16.628062+00:00"
+    }
+  }
+}

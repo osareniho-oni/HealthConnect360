@@ -1,0 +1,3 @@
+"Synthea was used as the synthetic clinical data generator. Because Synthea does not natively represent the three Northstar facilities as independent source systems, I implemented a controlled source-system mapping layer to distribute a coherent synthetic patient population across the hospital, community clinic, and diagnostic systems."
+
+HealthConnect360 uses Synthea as the synthetic clinical data generator while applying a controlled source-system and facility-routing layer to simulate a multi-facility healthcare network. Native Synthea provenance is preserved rather than overwritten.
